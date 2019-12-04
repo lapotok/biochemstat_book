@@ -1,0 +1,9 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Курс статистики для биохимиков</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Сделано с помощью bookdown</a></li>
+    edit: https://github.com/rstudio/bookdown-demo/edit/master/%s

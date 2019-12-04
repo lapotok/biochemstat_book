@@ -1,0 +1,5 @@
+book_filename: "biochemstat_book"
+language:
+  ui:
+    chapter_name: "Глава "
+delete_merged_file: true
